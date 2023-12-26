@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": " Consolas, 'Intel One Mono', 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#5caeef",
+        "editorBracketHighlight.foreground2": "#dfb976",
+        "editorBracketHighlight.foreground3": "#c172d9",
+        "editorBracketHighlight.foreground4": "#4fb1bc",
+        "editorBracketHighlight.foreground5": "#97c26c",
+        "editorBracketHighlight.foreground6": "#abb2c0",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#db6165",
+        "activityBar.background": "#0A323D",
+        "titleBar.activeBackground": "#0F4656",
+        "titleBar.activeForeground": "#F6FCFD"
+    }
+}
