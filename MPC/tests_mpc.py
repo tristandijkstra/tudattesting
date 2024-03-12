@@ -13,8 +13,9 @@ import pytest
 import datetime
 
 from astroquery.mpc import MPC as astroquery_MPC
+from astroquery.mpc import MPC
 
-
+MPC.clear_cache()
 spice.load_standard_kernels()
 
 # coverage = 88%
